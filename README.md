@@ -7,12 +7,6 @@ Example:
 
 	curl https://raw.githubusercontent.com/x13machine/ubuntu-demon-creator/master/create-demon.sh | sudo name="web" username="web" command="/home/web/start.sh" bash
 
-## Parameters
-* name: Name of the demon.
-* username: The user the demon will run as.
-* command: The command to run the demon.
-* description (optional): The description of the demon.
-
 ## Logs
 
 	/var/log/<name>.log
@@ -21,3 +15,8 @@ Example:
 
 	service uninstall <name>
 
+## Parameters
+* name: Name of the demon.
+* username: The user the demon will run as.
+* command: The command to run the demon.
+* description (optional): The description of the demon.
