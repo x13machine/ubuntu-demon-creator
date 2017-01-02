@@ -9,11 +9,11 @@ Example:
 
 ##Logs
 
-	/var/log/&lt;demon name&gt;.log
+	/var/log/<name>.log
 
 ##removal
 
-	service &lt;demon name&gt; to remove the demon script
+	service uninstall <name>
 
 ## Parameters
 * name: Name of the demon.
