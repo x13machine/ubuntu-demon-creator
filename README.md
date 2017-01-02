@@ -7,7 +7,7 @@ Example:
 
 	curl https://raw.githubusercontent.com/x13machine/ubuntu-demon-creator/master/create-demon.sh | sudo name="web" username="web" command="/home/web/start.sh" bash
 
-/var/log/<demon name>.log for logs
+/var/log/<<demon-name>>.log for logs
 
 ## Parameters
 * name: Name of the demon.
