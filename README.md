@@ -7,9 +7,13 @@ Example:
 
 	curl https://raw.githubusercontent.com/x13machine/ubuntu-demon-creator/master/create-demon.sh | sudo name="web" username="web" command="/home/web/start.sh" bash
 
-/var/log/&lt;demon name&gt;.log for logs
+##Logs
 
-service &lt;demon name&gt; to remove the demon script
+	/var/log/&lt;demon name&gt;.log
+
+##removal
+
+	service &lt;demon name&gt; to remove the demon script
 
 ## Parameters
 * name: Name of the demon.
