@@ -1,5 +1,5 @@
 # ubuntu-demon-creator
-An automated way of creating services/demons for ubuntu 16.04
+An automated way of creating services/demons in ubuntu 16.04
 
 Example:
 
