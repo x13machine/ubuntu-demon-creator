@@ -1,4 +1,4 @@
-# ubuntu-demon-creator
+# Ubuntu Demon Creator
 An automated way of creating services/demons for ubuntu 16.04 Edit
 
 I made this script for other automated bash scripts and to fix some bugs in this https://gist.github.com/naholyr/4275302.
