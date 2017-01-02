@@ -7,11 +7,11 @@ Example:
 
 	curl https://raw.githubusercontent.com/x13machine/ubuntu-demon-creator/master/create-demon.sh | sudo name="web" username="web" command="/home/web/start.sh" bash
 
-##Logs
+## Logs
 
 	/var/log/<name>.log
 
-##removal
+## Removal
 
 	service uninstall <name>
 
