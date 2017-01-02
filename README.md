@@ -9,7 +9,7 @@ Example:
 
 You can also add the description parameter for whatever reason.
 
-## Parameters:
+## Parameters
 * name: Name of the demon.
 * username: The user the demon will run as.
 * command: The command to run the demon.
