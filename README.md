@@ -9,6 +9,8 @@ Example:
 
 /var/log/&lt;demon name&gt;.log for logs
 
+service &lt;demon name&gt; to remove the demon script
+
 ## Parameters
 * name: Name of the demon.
 * username: The user the demon will run as.
